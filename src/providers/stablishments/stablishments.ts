@@ -1,6 +1,7 @@
 import { Injectable } from '@angular/core';
-import { Http } from '@angular/http';
 import 'rxjs/add/operator/map';
+
+import { AngularFireDatabase, FirebaseListObservable } from 'angularfire2/database';
 
 /*
   Generated class for the StablishmentsProvider provider.
@@ -10,9 +11,15 @@ import 'rxjs/add/operator/map';
 */
 @Injectable()
 export class StablishmentsProvider {
+  stablishments: FirebaseListObservable<any[]>;
 
-  constructor(public http: Http) {
+  constructor(private db: AngularFireDatabase) {
     console.log('Hello StablishmentsProvider Provider');
+    this.stablishments = db.list('/stablishments');
+  }
+
+  public getStablishments(): FirebaseListObservable<any[]>{
+    return this.stablishments;
   }
 
 }

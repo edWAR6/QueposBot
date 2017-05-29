@@ -1,8 +1,8 @@
 page-home {
   ion-fab{
-    &.menu{
-      margin-top: $fab-content-margin + $fab-content-margin;
-    }
+    // &.menu{
+    //   margin-top: $fab-content-margin + $fab-content-margin;
+    // }
     button{
       box-shadow: 0 2px 4px 0px #999;
       &.home{

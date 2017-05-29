@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="55px" viewBox="0 0 36 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>hotel</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-85.000000, -113.000000)" fill="#009688">
+            <g id="hotel" transform="translate(85.000000, 113.000000)">
+                <path d="M2.18316032,26.5994585 C0.791035988,24.0443605 0,21.1145584 0,18 C0,8.0588745 8.0588745,0 18,0 C27.9411255,0 36,8.0588745 36,18 C36,21.1145584 35.208964,24.0443605 33.8168397,26.5994585 L33.8206421,26.6015259 L18,54.9 L2.17935791,26.6015259 L2.18316032,26.5994585 Z M13,19 C14.66,19 16,17.66 16,16 C16,14.34 14.66,13 13,13 C11.34,13 10,14.34 10,16 C10,17.66 11.34,19 13,19 L13,19 Z M25,13 L17,13 L17,20 L9,20 L9,11 L7,11 L7,26 L9,26 L9,23 L27,23 L27,26 L29,26 L29,17 C29,14.79 27.21,13 25,13 L25,13 Z" id="Oval-21"></path>
+            </g>
+        </g>
+    </g>
+</svg>

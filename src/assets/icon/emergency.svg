@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="55px" viewBox="0 0 36 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>emergency</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-142.000000, -113.000000)" fill="#D0021B">
+            <g id="emergency" transform="translate(142.000000, 113.000000)">
+                <path d="M2.18316032,26.5994585 C0.791035988,24.0443605 0,21.1145584 0,18 C0,8.0588745 8.0588745,0 18,0 C27.9411255,0 36,8.0588745 36,18 C36,21.1145584 35.208964,24.0443605 33.8168397,26.5994585 L33.8206421,26.6015259 L18,54.9 L2.17935791,26.6015259 L2.18316032,26.5994585 Z M25,9 L11,9 C9.9,9 9.01,9.9 9.01,11 L9,25 C9,26.1 9.9,27 11,27 L25,27 C26.1,27 27,26.1 27,25 L27,11 C27,9.9 26.1,9 25,9 L25,9 Z M24,20 L20,20 L20,24 L16,24 L16,20 L12,20 L12,16 L16,16 L16,12 L20,12 L20,16 L24,16 L24,20 L24,20 Z" id="Oval-21"></path>
+            </g>
+        </g>
+    </g>
+</svg>

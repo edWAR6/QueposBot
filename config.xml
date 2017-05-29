@@ -3,10 +3,12 @@
     <name>QueposBot</name>
     <description>An awesome Ionic/Cordova app.</description>
     <author email="eduardo.oviedo@gmail.com" href="http://www.edWAR6.xyz/">Eduardo Oviedo Blanco</author>
-    <content original-src="index.html" src="http://192.168.86.32:8100" />
+    <content src="index.html" />
     <access origin="*" />
     <allow-navigation href="http://ionic.local/*" />
     <allow-navigation href="http://192.168.86.32:8100" />
+    <allow-navigation href="http://192.168.0.26:8100" />
+    <allow-navigation href="http://169.254.105.184:8100" />
     <allow-intent href="http://*/*" />
     <allow-intent href="https://*/*" />
     <allow-intent href="tel:*" />
